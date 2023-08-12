@@ -29,3 +29,5 @@ Answers:
 2. /filter?category=' or 1=1 --
 
 3. /filter?category='+OR+1=1--
+
+4. /filter?category=' OR '1'='1'--
